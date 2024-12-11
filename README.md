@@ -73,22 +73,14 @@ Tenho como objetivo **me especializar** nas seguintes tecnologias:
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Cursos
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasGalerani&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGalerani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+Estes são alguns cursos que concluí ao longo da minha jornada como estudante, alguns com certificação válida pelo MEC, enquanto outros serviram como complementos ao meu aprendizado.
+- Java Orientado a Objeto (Java POO) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/java-poo/)
+- Curso de Java - [CFBCursos](https://www.youtube.com/watch?v=JdTYEa3wg8s&list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW)
+- Java Básico - [Curso em Vídeo](https://www.cursoemvideo.com/curso/java-basico/)
+- MySQL - [Curso em Vídeo](https://www.cursoemvideo.com/curso/mysql/)
+- Git e GitHub - [Curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
+- Python 3 (Módulo 3) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-3/)
+- Python 3 (Módulo 2) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-2/)
+- Python 3 (Módulo 1) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
