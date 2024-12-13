@@ -13,8 +13,6 @@ Tenho como objetivo **me especializar** nas seguintes tecnologias:
 - **Tailwind CSS**, para estilização rápida e eficiente de interfaces.  
 - **Node.js**, para desenvolvimento de aplicações backend escaláveis e performáticas.
 - **TypeScript**, para maior segurança e escalabilidade no desenvolvimento de aplicações.
-- **Nest.js**, para desenvolvimento de aplicações backend escaláveis, bem estruturadas e uma arquitetura modular.
-- **ExpressJS**, para desenvolvimento de aplicações backend rápidas e minimalistas, com foco em flexibilidade e facilidade de uso.
 - **RxJS**, para programação reativa e gerenciamento eficiente de fluxos assíncronos de dados em JavaScript e TypeScript.
 - **WebPack**, para empacotamento e otimização de módulos, garantindo o carregamento eficiente de recursos em aplicações web modernas.
 - **GraphQL**, para consultas flexíveis e eficientes de dados, permitindo a criação de APIs poderosas e com controle total sobre as informações retornadas.
