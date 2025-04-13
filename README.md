@@ -48,6 +48,14 @@ Tenho como objetivo **me especializar** nas seguintes tecnologias:
 />
 <img 
     align="left" 
+    alt="Javascript" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -96,8 +104,15 @@ Estes são alguns cursos que concluí ao longo da minha jornada como estudante, 
 - Java Orientado a Objeto (Java POO) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/java-poo/)
 - Curso de Java - [CFBCursos](https://www.youtube.com/watch?v=JdTYEa3wg8s&list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW)
 - Java Básico - [Curso em Vídeo](https://www.cursoemvideo.com/curso/java-basico/)
+- JavaScript - [Curso em Vídeo](https://www.cursoemvideo.com/curso/javascript/)
 - MySQL - [Curso em Vídeo](https://www.cursoemvideo.com/curso/mysql/)
 - Git e GitHub - [Curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
 - Python 3 (Módulo 3) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-3/)
 - Python 3 (Módulo 2) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-2/)
 - Python 3 (Módulo 1) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
+- HTML5 e CSS3 (Módulo 1) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/html5-css3-modulo1/)
+- HTML5 e CSS3 (Módulo 2) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/)
+- HTML5 e CSS3 (Módulo 3) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-3-de-5-40-horas/)
+- HTML5 e CSS3 (Módulo 4) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-4-de-5-40-horas/)
+- HTML5 e CSS3 (Módulo 5) - [Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-5-de-5-40-horas/)
+- Linux - [Curso em Vídeo](https://www.cursoemvideo.com/curso/linux/)
