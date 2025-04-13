@@ -4,7 +4,9 @@
 
 Meu nome é **Lucas de Souza Galerani**, tenho **16 anos** e resido em **Jacarezinho - PR**. Atualmente, sou estudante do **Ensino Médio Integrado ao Curso Técnico de Informática** no **Instituto Federal do Paraná (IFPR)**.  
 
-No momento, estou realizando estágio na **área Operacional** da empresa **FLER Equipamentos e Intermediação de Negócios LTDA**, popularmente conhecida como **ENIFLER**, um **e-commerce especializado na venda de computadores e produtos informacionais**.  
+No momento, estou realizando estágio na **área Operacional** da empresa **FLER Equipamentos e Intermediação de Negócios LTDA**, popularmente conhecida como **ENIFLER**, um **e-commerce especializado na venda de computadores e produtos informacionais**.
+
+Possuo **mais de 1 ano de experiência na área de tecnologia**, atuando nesse estágio como **Auxiliar de Administração de Banco de Dados**, colaborando no **gerenciamento de dados** e atuando como **pesquisador de soluções de software básico**. Além disso, tenho experiência com o uso de **softwares de gerenciamento**, atuando como **usuário que recebe atividades de superiores e interage com diferentes setores**, utilizando plataformas como o **Notion Plus**. Também sou familiarizado com **softwares de comunicação interna**, como o **Slack**, para manter uma comunicação eficiente entre as equipes.
 
 Além dos estudos em programação no curso técnico, dedico parte do meu **tempo livre** ao aprendizado autodidata, buscando aprofundar meus conhecimentos na área de **desenvolvimento de software**.  
 
@@ -17,11 +19,7 @@ Tenho como objetivo **me especializar** nas seguintes tecnologias:
 - **WebPack**, para empacotamento e otimização de módulos, garantindo o carregamento eficiente de recursos em aplicações web modernas.
 - **GraphQL**, para consultas flexíveis e eficientes de dados, permitindo a criação de APIs poderosas e com controle total sobre as informações retornadas.
 - **SASS**, para estilização de interfaces com uma sintaxe mais poderosa e reutilizável, oferecendo recursos como variáveis, aninhamento e mixins.
-
 - **Angular**, para criação de interfaces modernas e dinâmicas.  
-- **Java**, para desenvolvimento de soluções robustas e versáteis.  
-- **PostgreSQL**, para gestão eficiente de bancos de dados relacionais.  
-- **Spring Framework**, para construção de aplicações empresariais escaláveis.   
 
 ### 🤖 Linguagens e Tecnologias
 <img 
@@ -34,28 +32,19 @@ Tenho como objetivo **me especializar** nas seguintes tecnologias:
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Spring" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="PostgreSQL" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
@@ -72,6 +61,30 @@ Tenho como objetivo **me especializar** nas seguintes tecnologias:
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
