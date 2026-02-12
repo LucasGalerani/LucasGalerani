@@ -19,7 +19,7 @@ Tenho como objetivo me especializar nas seguintes tecnologias, com foco em desen
 
 - **Spring WebFlux**, para o desenvolvimento de aplicações backend reativas em Java, utilizando programação não bloqueante, alta concorrência e melhor aproveitamento de recursos, especialmente em sistemas de alta escala.
 - **MongoDB**, para persistência de dados NoSQL, oferecendo flexibilidade de esquema, alta escalabilidade horizontal e bom desempenho em aplicações distribuídas e orientadas a documentos.
-- **Valkey**, para cache distribuído, gerenciamento de sessões, filas leves e otimização de performance em aplicações backend, garantindo baixa latência e alta disponibilidade.
+- **Redis**, para cache distribuído, gerenciamento de sessões, filas leves e otimização de performance em aplicações backend, garantindo baixa latência e alta disponibilidade.
 - **Spring Cache**, para abstração e gerenciamento eficiente de cache no ecossistema Spring, integrando soluções como Valkey e melhorando o desempenho geral da aplicação.
 - **Kafka**, para construção de arquiteturas orientadas a eventos, processamento de streams de dados em larga escala e comunicação assíncrona entre microsserviços.
 - **RabbitMQ**, para mensageria tradicional baseada em filas, garantindo comunicação confiável, desacoplamento entre serviços e controle de fluxos assíncronos.
